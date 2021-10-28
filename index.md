@@ -3,7 +3,7 @@
 ### Target speech reference samples from LJ-Speech.
 
 | Reference sample | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ010-0295.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ031-0224.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ028-0335.wav" controls preload></audio> |
-| Source | FastSVC | HiFi-SVC | 
+| Source | one | old | 
 | :--- | :--- | :--- | :--- |
 | <audio src="CD_lj/src/ADIZ_18.wav" controls preload></audio> | <audio src="CD_lj/one/ADIZ_18.npy_to_lj.wav" controls preload></audio> | <audio src="CD_lj/res2/ADIZ_18.wav" controls preload></audio> |
 | <audio src="CD_lj/src/JLEE_11.wav" controls preload></audio> | <audio src="CD_lj/one/JLEE_11.npy_to_lj.wav" controls preload></audio> | <audio src="CD_lj/res2/JLEE_11.wav" controls preload></audio> |
@@ -23,7 +23,7 @@
 ### Female source singer
 
 | Source sample from ADIZ (NUS-48E) | <audio src="ID_CL/src/ADIZ_18.wav" controls preload></audio> |
-| reference | FastSVC | HiFi-SVC | 
+| reference | one | old | 
 | :--- | :--- | :--- |
 | <audio src="ID_CL/ref/ADIZ_18.wav" controls preload></audio> | <audio src="ID_CL/one/ADIZ_18.npy_to_ADIZ.wav" controls preload></audio> | <audio src="ID_CL/res2/ADIZ_18_to_ADIZ_18.wav" controls preload></audio> |
 | <audio src="ID_CL/ref/JLEE_11.wav" controls preload></audio> | <audio src="ID_CL/one/ADIZ_18.npy_to_JLEE.wav" controls preload></audio> | <audio src="ID_CL/res2/ADIZ_18_to_JLEE_11.wav" controls preload></audio> |
@@ -42,7 +42,7 @@
 ### Male source singer
 
 | Source sample from VKOW (NUS-48E) | <audio src="ID_CL/src/VKOW_20.wav" controls preload></audio> |
-| reference | FastSVC | HiFi-SVC | 
+| reference | one | old | 
 | :--- | :--- | :--- |
 | <audio src="ID_CL/ref/ADIZ_18.wav" controls preload></audio> | <audio src="ID_CL/one/VKOW_20.npy_to_ADIZ.wav" controls preload></audio> | <audio src="ID_CL/res2/VKOW_20_to_ADIZ_18.wav" controls preload></audio> |
 | <audio src="ID_CL/ref/JLEE_11.wav" controls preload></audio> | <audio src="ID_CL/one/VKOW_20.npy_to_JLEE.wav" controls preload></audio> | <audio src="ID_CL/res2/VKOW_20_to_JLEE_11.wav" controls preload></audio> |
